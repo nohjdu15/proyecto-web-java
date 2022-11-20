@@ -1,0 +1,7 @@
+
+* {/*el asterisco es un selector universal*/
+    box-sizing: border-box;/*ajusta y calcula automaticamente mi pagina, deacuerdo al tamaño de la pantalla evita el scroll*/
+    padding: 0;/*elimina el padding en toda la pagina*/
+    margin: 0;/*elimina el margin en toda la pagina*/
+}
+
